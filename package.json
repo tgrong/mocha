@@ -1,0 +1,17 @@
+{
+  "name": "mocha-temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.4.1"
+  },
+  "devDependencies": {
+    "mochawesome": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
